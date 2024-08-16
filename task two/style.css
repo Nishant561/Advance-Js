@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: gray;
+}
+
+.image1,
+.image2{
+    height: 250px;
+    width: 250px;
+    object-position: center;
+    object-fit: cover;
+    margin: 10px;
+}
